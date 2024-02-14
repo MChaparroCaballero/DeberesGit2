@@ -66,6 +66,8 @@ public class Simulador_de_Cajero_Automático {
 					"Identificación completada, que operación quiere hacer? 1 para mostrar su sueldo, 2 para ingresar dinero a su cuenta, 3 para sacar dinero de su cuenta");
 		}
 
+		
+		
 	}
 
 }
